@@ -1,5 +1,10 @@
 # AutoUsbTether
 
+[![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
+[![Platform](https://img.shields.io/badge/Platform-Windows_10%2B-0078D6?logo=windows)](https://www.microsoft.com/windows)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Release](https://img.shields.io/badge/Download-EXE-brightgreen)](../../releases/latest)
+
 电脑插上手机 → 自动开启 USB 网络共享。系统托盘静默运行，XP 经典弹窗通知。
 
 ## 功能
