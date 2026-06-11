@@ -1,0 +1,21 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.pdb
+*.exe
+!nuget.exe
+publish/
+
+# IDE
+.vs/
+.vscode/
+*.swp
+*.sln
+
+# OS
+Thumbs.db
+Desktop.ini
