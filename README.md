@@ -62,6 +62,11 @@ AutoUsbTether/
 └── .gitignore
 ```
 
+## 贡献者
+
+- [creatrycatQ](https://github.com/creatrycatQ) — 项目发起者
+- [DeepSeek](https://deepseek.com/) — AI 代码生成
+
 ## 系统要求
 
 - Windows 10 / 11 (x64)
